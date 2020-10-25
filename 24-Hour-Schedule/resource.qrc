@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>notebook.png</file>
+        <file>timeline.png</file>
+        <file>forbid.png</file>
+    </qresource>
+    <qresource prefix="/data">
+        <file>storage.json</file>
+    </qresource>
+</RCC>

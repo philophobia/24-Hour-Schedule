@@ -1,0 +1,35 @@
+{
+    "table": [
+        {
+            "affair": "睡觉",
+            "end-time": "08:00",
+            "start-time": "00:00"
+        },
+        {
+            "affair": "休息",
+            "end-time": "13:30",
+            "start-time": "12:00"
+        },
+        {
+            "affair": "课程",
+            "end-time": "15:50",
+            "start-time": "14:20"
+        },
+        {
+            "affair": "运动",
+            "end-time": "21:00",
+            "start-time": "19:00"
+        }
+    ],
+    "taboo": [
+        {
+            "text": "少油、少辣"
+        },
+        {
+            "text": "多喝水，不能喝冰水"
+        },
+        {
+            "text": "有氧运动"
+        }
+    ]
+}
